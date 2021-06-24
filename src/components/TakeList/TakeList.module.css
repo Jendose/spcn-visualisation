@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 100px;
+    border-radius: 3vw;
+    align-items: center;
+    margin-bottom: 80px;
+    background-color: #c2cdd7;
+}

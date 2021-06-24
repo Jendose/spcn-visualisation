@@ -1,0 +1,23 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button {
+    width: 50vw;
+    text-align: center;
+    padding: 5vh;
+    margin-bottom: 60px;
+    border-radius: 5vh;
+    text-decoration: none;
+    color: black;
+    background-color: #d9e4ee;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #c2cdd7;
+    transition-duration: 200ms;
+}

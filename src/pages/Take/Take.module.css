@@ -1,0 +1,22 @@
+.dataContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.text {
+    height: 40px;
+    font-size: xx-large;
+}
+
+.bigButton{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
